@@ -1,0 +1,7 @@
+__pycache__/
+research/
+*.mp4
+*.webm
+*.mov
+*.log
+.env*
